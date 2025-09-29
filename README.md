@@ -99,7 +99,7 @@ The solution is built on a **private, permissioned blockchain** with the followi
 - **Smart Contracts:** Solidity — CarbonToken (ERC-20), Stable-AMM, Verification, Registry  
 - **Identity & Access Control:** CA-based permissioning, OpenZeppelin AccessControl, Metamask/custom wallet integration  
 - **Oracles & Off-chain Data:** Node.js/Go oracles, IPFS/Filecoin for storage, ethers.js/web3.js for blockchain interaction  
-
+- **For Mobile App:** React Native (Framework), Expo (ToolChain), TypeScript (Language)
 ---
 
 ## 🎯 Goals
